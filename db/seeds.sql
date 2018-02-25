@@ -8,7 +8,7 @@ INSERT INTO burgers (burger_name)
 VALUES ("Sympathy for the Deviled Egg Burger");
 
 INSERT INTO burgers (burger_name)
-VALUES ("I Fought the Slaw Burger (And the Slaw Won)");
+VALUES ("If Looks Could Kale Burger");
 
 INSERT INTO burgers (burger_name)
 VALUES ("Poblano Picasso Burger");
